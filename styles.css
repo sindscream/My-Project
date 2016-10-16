@@ -1,0 +1,191 @@
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#FFFFFF;
+	color:#010101;
+}
+img {
+	border:0;
+}
+a {
+	color:#4393de;
+	font-size:12px;
+	text-decoration:underline;
+}
+a:hover {
+	color:#4393de;
+	font-size:12px;
+	text-decoration:none;
+}
+h1 {
+	font-family:tahoma, arial;
+	font-size:24px;
+	font-weight:bold;
+	color:#4393de;
+}
+h2 {
+	font-family:tahoma, arial;
+	color:white;
+	font-size:14px;
+	font-weight:bold;
+}
+.buttonStyle {
+	border:0;
+	cursor:pointer;
+	font-size:14px;
+	font-weight:bold;
+	color:#ffffff;
+	background:#413503;
+	padding:2px 7px;
+}
+#container { 
+	width: 980px;  
+	margin: 0 auto;
+	background-image:
+}
+.headerTop {
+	background:#4169E1;  <--2c2c2c-->
+}
+.menu {
+	float:left;
+}
+.menu ul {
+	padding:10px 0;
+	margin:0;
+}
+.menu li {
+	list-style:none;
+	display:inline;
+	padding:0;
+}
+.menu a {
+	color:#ffffff;
+	font-size:18px;
+	text-decoration:none;
+	padding:10px 20px;
+} 
+.menu a:hover {
+	color:#ffffff;
+	font-size:18px;
+	background:#4393de;
+	text-decoration:none;
+}
+.menu #active a {
+	color:#ffffff;
+	font-size:18px;
+	background:#4393de;
+	text-decoration:none;
+} 
+.icons {
+	float:right;
+	background:#FFFFFF;
+	margin:5px;
+}
+.icons li {
+	list-style:none;
+	display:inline;
+} 
+.headerPics {
+	background:#4169E1;
+	height:337px;
+	margin:20px 0;
+}
+.headerBox1 {
+	width:218px;
+	float:left;
+	padding:10px;
+}
+.headerBox1 ul {
+	padding:10px 0 0 0;
+}
+.headerBox1 li {
+	list-style:none;
+	font-size:12px;
+	color: white;
+	background:url(images/p.png) no-repeat left 5px;
+	padding:3px 0 3px 15px;
+}
+.headerBox2 {
+	width:254px;
+	background:#4169E1;
+	margin:0 507px 0 219px;
+	min-height:337px;
+}
+.headerBox2 .logo {
+	padding:40px 0 0 40px;
+}
+.headerBox2 p {
+	font-size:18px;
+	color:#FFFFFF;
+	padding:20px 40px 0 40px;
+}
+.headerBox3 {
+	float:right;
+} 
+#sidebar1 {
+	float: left;
+	width: 321px;
+}
+.picBox {
+	background:#f2c200;
+	margin:0 0 20px 0;
+}
+.picBoxImage {
+	text-align:center;
+}
+.picBoxButton {	
+	float:right;
+	padding:0 15px 15px 0;
+}
+.picBox img {
+	padding:15px 0 0 0;
+}
+.picBox p {
+	padding:20px 15px 10px 15px;
+}
+#mainContent { 
+	margin: 0 0 0 360px; 
+	border-radius: 0px 10px 10px 10px;
+	background: linear-gradient(to top, #fefcea, #f1da11);
+	padding:5px;
+}
+.picRight {
+	float:right;
+	padding:0 0 15px 20px;
+}
+#mainContent p {
+	padding:10px 0 30px 0;
+} 
+#footer {
+	background:#4169E1;
+	color:#9e9e9e;
+	padding:30px 0;
+	font-size:11px;
+}
+#footer p {
+	text-align:center;
+} 
+#footer a {
+	color:#f2c200;
+	text-decoration:underline;
+	font-size:11px;
+}
+#footer a:hover {
+	color:#f2c200;
+	text-decoration:none;
+	font-size:11px;
+}
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+#citata{
+	color: white;
+	padding-left; 5px;	
+}
